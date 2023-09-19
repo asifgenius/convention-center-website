@@ -1,0 +1,47 @@
+button{
+    background-color: rgb(255, 229, 181);
+    
+}
+
+.backGroundColour {
+    border-radius: 30px;
+    box-shadow: 10px 190px 10px 1px gray;
+    margin-bottom: 90px;
+
+
+  }
+
+  @media (min-width: 768px) {}
+
+
+
+  h1 {
+
+    font-weight: bold;
+  }
+
+  .header {
+    justify-content: center;
+    display: flex;
+    margin-bottom: 90px;
+
+  }
+
+  .carousel {
+    color: white;
+  }
+
+  .btn-close {
+    margin-left: 90px;
+
+  }
+
+  .textposition {
+    margin-left: 30px;
+  }
+
+
+  footer {
+    background-color: black;
+    height: 300px;
+  }
